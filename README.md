@@ -1,4 +1,4 @@
-![Header]<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/e4b0294a-c8cc-416e-965c-690c9393c472" />
+![Header](./github-header-banner.png)
 # 💫 About Me:
 🛡️ *Working on:* Detection engineering & threat hunting at enterprise SOC (10K+ events/day)<br>🤝 *Collaborate:* Purple team projects & security automation tools<br>📚 *Learning:* Advanced SOC operations (PSAA) & malware reverse engineering<br>💬 *Ask me about:* SQLi, SIEM rules, AD exploitation, CTF walkthroughs<br>⚡ *Achievements:* Top 5 TryHackMe 🇮🇩 | 500+ day streak | 25+ writeups | L2→SOC in 2 years
 
