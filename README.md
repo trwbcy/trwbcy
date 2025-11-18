@@ -1,6 +1,6 @@
-![Header](./)
+![Header]<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/e4b0294a-c8cc-416e-965c-690c9393c472" />
 # 💫 About Me:
-## 🔭 I'm currently working on<br>**SOC Detection Engineering** - Crafting advanced AQL queries and correlation rules in IBM QRadar to hunt sophisticated threats across 10,000+ daily security events at MPM Distributor<br><br>## 👯 I'm looking to collaborate on<br>**Purple Team Projects** - Bridging offensive and defensive security through adversary simulation, detection engineering, and building open-source security tools that help both red and blue teams<br><br>## 🤝 I'm looking for help with<br>**Advanced Malware Analysis & Reverse Engineering** - Expanding my skillset in dissecting complex malware samples and building better detection signatures for enterprise environments<br><br>## 🌱 I'm currently learning<br>**Practical SOC Analyst Associate (PSAA)** from TCM Security - Deep diving into phishing analysis, network traffic analysis, digital forensics, and advanced incident response techniques<br><br>## 💬 Ask me about<br>**SQL Injection exploitation, SIEM detection rules, CTF writeups, Active Directory attacks, threat hunting queries, or how I maintain a 500+ day streak on TryHackMe!**<br><br>## ⚡ Fun fact<br>I went from L2 Support Engineer to SOC Analyst in 2 years, ranked **Top 5 in Indonesia on TryHackMe** and **Top 20 on Hacktrace-Ranges**, and I'm obsessed with writing detailed CTF writeups that actually help people learn (25+ and counting!)
+🛡️ *Working on:* Detection engineering & threat hunting at enterprise SOC (10K+ events/day)<br>🤝 *Collaborate:* Purple team projects & security automation tools<br>📚 *Learning:* Advanced SOC operations (PSAA) & malware reverse engineering<br>💬 *Ask me about:* SQLi, SIEM rules, AD exploitation, CTF walkthroughs<br>⚡ *Achievements:* Top 5 TryHackMe 🇮🇩 | 500+ day streak | 25+ writeups | L2→SOC in 2 years
 
 
 ## 🌐 Socials:
@@ -22,4 +22,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=trwbcy&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
